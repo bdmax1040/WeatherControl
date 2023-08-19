@@ -7,8 +7,13 @@
 
 
 
+#Creates scoreboards
 scoreboard objectives add clear trigger
 
 scoreboard objectives add rain trigger
 
 scoreboard objectives add thunder trigger
+
+
+#Disables weather cycle
+gamerule do Weather Cycle false
