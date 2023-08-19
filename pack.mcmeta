@@ -2,7 +2,7 @@
 
 {
     "pack": {
-        "pack_format": 10,
+        "pack_format": 15,
 		"description": [{"text":"Weather Control Datapack","color":"red"},{"text":"\nBy bdmax1040","color":"green"}]
     }
 }
