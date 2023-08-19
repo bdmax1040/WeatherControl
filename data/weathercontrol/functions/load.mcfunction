@@ -16,4 +16,4 @@ scoreboard objectives add thunder trigger
 
 
 #Disables weather cycle
-gamerule do Weather Cycle false
+gamerule doWeatherCycle false
